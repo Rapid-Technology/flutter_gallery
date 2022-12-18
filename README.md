@@ -1,4 +1,4 @@
-# flutter_gallery
+# Flutter Gallery UI
 
 A new Flutter project.
 
