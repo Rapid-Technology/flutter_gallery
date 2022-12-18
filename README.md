@@ -1,6 +1,6 @@
 # Flutter Gallery UI
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/jyt1ptiXBPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=jyt1ptiXBPE)
 
 ## Getting Started
 
